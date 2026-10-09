@@ -609,12 +609,13 @@ Qt
 
 OpenCV
 
-捐赠
-BTC: 13SongiriQuWoFhoimsVS21CyaTxozKBVA
-
-
 ZBar
 
 Android NDK
 
 健康平台 / FySVC 相关组件
+
+
+捐赠
+BTC: 13SongiriQuWoFhoimsVS21CyaTxozKBVA
+
