@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>view/loginview.qml</file>
+        <file>font/NotoSansSC-Regular.otf</file>
+        <file>logic/AppLogic.qml</file>
+        <file>view/homeview.qml</file>
+        <file>view/controls/NaviButton.qml</file>
+        <file>view/connecttvview.qml</file>
+        <file>view/settingsview.qml</file>
+        <file>view/subview/systeminformation.qml</file>
+        <file>view/subview/tvinformation.qml</file>
+        <file>view/todaychecklist.qml</file>
+        <file>view/searchstudent.qml</file>
+        <file>view/visioncheck.qml</file>
+        <file>view/manualconnectview.qml</file>
+        <file>font/wrzht.ttf</file>
+    </qresource>
+</RCC>
