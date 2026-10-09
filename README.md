@@ -609,6 +609,10 @@ Qt
 
 OpenCV
 
+捐赠
+BTC: 13SongiriQuWoFhoimsVS21CyaTxozKBVA
+
+
 ZBar
 
 Android NDK
